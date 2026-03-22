@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # QuanLib-
 a lab
 =======
